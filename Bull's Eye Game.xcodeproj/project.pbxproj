@@ -297,6 +297,7 @@
 				3ED2A27D1EF2A4D900D8ADDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
