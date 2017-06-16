@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E84C3131EF3685E00DD8453 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E84C3121EF3685E00DD8453 /* AboutViewController.swift */; };
 		3ED2A26D1EF2A4D900D8ADDA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED2A26C1EF2A4D900D8ADDA /* AppDelegate.swift */; };
 		3ED2A26F1EF2A4D900D8ADDA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED2A26E1EF2A4D900D8ADDA /* ViewController.swift */; };
 		3ED2A2721EF2A4D900D8ADDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ED2A2701EF2A4D900D8ADDA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E84C3121EF3685E00DD8453 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		3ED2A2691EF2A4D900D8ADDA /* Bull's Eye Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bull's Eye Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3ED2A26C1EF2A4D900D8ADDA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3ED2A26E1EF2A4D900D8ADDA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				3ED2A26C1EF2A4D900D8ADDA /* AppDelegate.swift */,
 				3ED2A26E1EF2A4D900D8ADDA /* ViewController.swift */,
+				3E84C3121EF3685E00DD8453 /* AboutViewController.swift */,
 				3ED2A2701EF2A4D900D8ADDA /* Main.storyboard */,
 				3ED2A2731EF2A4D900D8ADDA /* Assets.xcassets */,
 				3ED2A2751EF2A4D900D8ADDA /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E84C3131EF3685E00DD8453 /* AboutViewController.swift in Sources */,
 				3ED2A26F1EF2A4D900D8ADDA /* ViewController.swift in Sources */,
 				3ED2A26D1EF2A4D900D8ADDA /* AppDelegate.swift in Sources */,
 			);
